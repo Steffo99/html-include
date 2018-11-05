@@ -12,5 +12,5 @@ Add this script to the `<head>` of your page.
 
 You can use GitHub as CDN by adding this line to the `<head>`:
 ```html
-<script src="https://steffo.eu/lib/html-include/minified.js" integrity="sha384-3jFY5Oq1q2WOk5eSwWrE94xbFMGpDJ9U4JyrqZwKqXVO30POGjWF7kMttO++xfM2" crossorigin="anonymous"></script>
+<script src="https://steffo.eu/lib/html-include/minified.js" integrity="sha384-lw6RzP+sBjDkiM1q2kr6Wqd02q0/i+NLvI1OHeqyHzt/m8MPyyg6im0n2RW91fqv" crossorigin="anonymous"></script>
 ```
